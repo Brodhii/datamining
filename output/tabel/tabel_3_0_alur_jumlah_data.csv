@@ -1,0 +1,8 @@
+﻿Langkah,Keterangan,Record dikeluarkan,Record tersisa,Mahasiswa tersisa,Kode MK tersisa
+Awal,Data mentah (NIM dan nama sudah dianonimkan),0,11496,1695,302
+III.2,Perbaikan typo Nilai Angka (1 record diperbaiki),0,11496,1695,302
+III.3,Keluarkan Nilai Angka kosong (222) dan teks tak bermakna (1),223,11273,1494,300
+III.4a,Keluarkan Nilai Angka = 0 (tidak ada capaian terukur),163,11110,1490,300
+III.5,Standarisasi Nama MK (905 record dibersihkan; nama unik 286 -> 275),0,11110,1490,300
+III.6,Prodi acuan = Kode Prodi Kelas (prodi utama per MK; 10 MK multi-prodi ditandai),0,11110,1490,300
+III.7,Validasi: duplikat dan konsistensi Nilai Huruf vs Nilai Angka,0,11110,1490,300

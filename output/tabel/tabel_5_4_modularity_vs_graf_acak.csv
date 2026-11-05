@@ -1,0 +1,12 @@
+﻿Ukuran,Nilai
+Modularity jaringan nyata,0.8679
+Rata-rata modularity graf acak,0.5953
+SD modularity graf acak,0.0138
+Modularity graf acak tertinggi,0.6334
+z-score,19.74
+p empiris (satu sisi),0.005
+Jumlah graf acak,200.0
+Jumlah komponen terhubung,13.0
+Komunitas identik dengan 1 komponen,12.0
+Jumlah komunitas,14.0
+Kepadatan graf,0.0376

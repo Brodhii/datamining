@@ -1,0 +1,8 @@
+﻿Jenis perbaikan,Kolom,Sebelum,Sesudah
+Typo Nilai Angka,Nilai Angka,91..00,91.00
+Pembersihan Nama MK,Nama MK,'Seminar Proposal*','Seminar Proposal'
+Pembersihan Nama MK,Nama MK,'Manajemen Humas dan Public Relation ','Manajemen Humas dan Public Relation'
+Pembersihan Nama MK,Nama MK,'Teaching English For Young Learners*','Teaching English For Young Learners'
+Pembersihan Nama MK,Nama MK,'Administarsi dan Supervisi Pendidikan ','Administarsi dan Supervisi Pendidikan'
+Variasi penulisan Nama MK,Kode MK PTA-11-00-08,"{'Akidah dan akhlak tasawuf': 124, 'Aqidah dan Akhlak Tasawuf': 68, 'Akidah dan Akhlak Tasawuf': 64}",Akidah dan Akhlak Tasawuf
+Variasi penulisan Nama MK,Kode MK PTA-11-00-12,"{'Tugas Akhir Skripsi': 14, 'Tugas Akhir': 6}",Tugas Akhir Skripsi

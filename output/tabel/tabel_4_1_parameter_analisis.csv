@@ -1,0 +1,10 @@
+﻿Parameter,Nilai,Alasan
+Uji korelasi,"Spearman, dua sisi",Spearman: hanya menuntut hubungan monoton dan lebih tahan outlier daripada Pearson; dua sisi.
+N_MIN,30,"Konvensi ukuran sampel minimum. Galat baku z-Fisher = 1/sqrt(n-3), sekitar 0,19 pada n = 30; pasangan yang lebih kecil terlalu tidak stabil dan menambah jumlah uji."
+RHO_MIN,0.3,Batas bawah korelasi sedang menurut konvensi Cohen (1988).
+RHO_KUAT,0.5,Batas korelasi kuat menurut konvensi Cohen (1988).
+Q_FDR,0.05,Tingkat kesalahan penemuan palsu yang lazim. Benjamini-Hochberg dipilih karena Bonferroni terlalu konservatif untuk ratusan uji.
+SD_MIN,1.0,MK dengan SD di bawah 1 poin hampir seragam; peringkatnya didominasi nilai kembar sehingga rho tidak stabil.
+RESOLUSI,1.0,Nilai baku Louvain; tidak disetel agar tidak menyesuaikan hasil.
+N_SEED,20,Louvain bergantung urutan acak; dijalankan berulang dan partisi bermodularity tertinggi dipakai.
+Korelasi negatif,Dilaporkan terpisah,Tidak masuk jaringan utama; dilaporkan terpisah sebagai temuan tambahan.

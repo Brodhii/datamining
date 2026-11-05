@@ -1,0 +1,34 @@
+Sumber: data_anonim.xlsx
+MODE_E: tanpa_capaian
+Kolom prodi: Kode Prodi Kelas
+
+mode_E: tanpa_capaian
+record_awal: 11496
+mahasiswa_awal: 1695
+kode_mk_awal: 302
+nilai_angka_diperbaiki: 1
+dikeluarkan_kosong: 222
+dikeluarkan_teks: 1
+dikeluarkan_nol: 163
+E_dipertahankan: 32
+record_nama_dibersihkan: 905
+nama_mk_unik_sebelum: 286
+nama_mk_unik_sesudah: 275
+kode_mk_dengan_>1_nama_sesudah: 0
+mk_tugas_akhir_kode: 16
+mk_tugas_akhir_record_mentah: 727
+mk_tugas_akhir_record_valid: 493
+nama_mk_dengan_>1_kode (dipertahankan terpisah): 12
+record_prodi_beda_prodi_kelas: 88
+mk_multi_prodi: 10
+duplikat_akhir: 0
+huruf_angka_tidak_konsisten: 0
+matriks_mahasiswa: 1490
+matriks_mk: 300
+matriks_terisi_persen: 2.49
+record_akhir: 11110
+mahasiswa_akhir: 1490
+kode_mk_akhir: 300
+prodi_akhir: 12
+record_dikeluarkan_total: 386
+persen_dikeluarkan: 3.36

@@ -1,0 +1,301 @@
+﻿Kode MK,Nama MK,Prodi utama,Jumlah prodi kelas,Porsi prodi utama,MK multi-prodi,Pernah bertanda asterisk,Jumlah mahasiswa
+AKS-12-09-03,Pengantar Bisnis,62202,1,1.0,False,False,36
+AKS-12-09-04,Matematika Ekonomi,62202,1,1.0,False,False,37
+AKS-12-09-08,Analisis Laporan Keuangan,62202,1,1.0,False,False,12
+AKS-12-09-14,Audit Lembaga Syariah,62202,1,1.0,False,False,19
+AKS-12-09-15,Akuntansi Lembaga Keuangan Syariah,62202,1,1.0,False,False,37
+AKS-12-09-16,Akuntansi Entitas Privat dan EMKM,62202,1,1.0,False,False,9
+AKS-12-09-17,Sistem Informasi Akuntansi,62202,1,1.0,False,False,10
+AKS-12-09-18,Kewirausahaan,62202,1,1.0,False,False,10
+AKS-12-09-20,Fikih Muamalah,62202,1,1.0,False,False,37
+AKS-12-09-23,Seminar Akuntansi Syariah,62202,1,1.0,False,False,19
+AKS-12-09-26,Praktikum Akuntansi Perusahaan Dagang,62202,1,1.0,False,False,38
+AKS-12-09-28,Praktikum Audit,62202,1,1.0,False,False,18
+AKS-12-09-30,Praktikum Komputer Akuntansi,62202,1,1.0,False,False,10
+AKS-13-09-02,Bisnis Digital,62202,1,1.0,False,False,9
+AKS-14-09-01,Kajian Naskah Melayu,62202,1,1.0,False,False,27
+AKS-14-09-02,Akuntansi Keuangan Menengah II,62202,1,1.0,False,False,29
+AKS-14-09-03,Akuntansi Lembaga Keuangan Syariah Nirlaba,62202,1,1.0,False,False,30
+AKS-14-09-04,Audit I,62202,1,1.0,False,False,29
+AKS-14-09-05,Akuntansi Perpajakan,62202,1,1.0,False,False,29
+AKS-14-09-06,Pasar Modal dan Analisis Sekuritas,62202,1,1.0,False,False,30
+AKS-14-09-07,Etika Profesi,62202,1,1.0,False,False,27
+AKS-14-09-08,Statistika,62202,1,1.0,False,False,24
+AKS-14-09-09,Praktikum Statistik,62202,1,1.0,False,False,23
+AKS110947,Skripsi,62202,1,1.0,False,False,19
+AUD-12-07-02,Metode Pengembangan Fisik dan Motorik Anak,86207,1,1.0,False,False,25
+AUD-12-07-03,Metode Pengembangan Kognitif Anak,86207,1,1.0,False,False,24
+AUD-12-07-04,Metode Pengembangan Moral dan Agama Anak,86207,1,1.0,False,False,25
+AUD-12-07-07,Bermain dan Permainan,86207,1,1.0,False,False,25
+AUD-12-07-13,Keselamatan dan Perlindungan Anak,86207,1,1.0,False,False,30
+AUD-12-07-15,Administrasi dan Manajemen,86207,1,1.0,False,False,30
+AUD-13-07-17,Neurosains,86207,1,1.0,False,False,30
+AUD-13-07-18,Bahasa Inggris AUD,86207,1,1.0,False,False,23
+AUD-13-07-19,Pendidikan Inklusi,86207,1,1.0,False,False,26
+AUD-13-07-28,Design Content Digital,86207,1,1.0,False,False,30
+AUD-13-07-29,Pengelolaan daycare dan homeschooling,86207,1,1.0,False,False,30
+AUD-13-07-30,Event Organizer for Kids,86207,1,1.0,False,False,30
+AUD-13-07-31,Outbond for Kids,86207,1,1.0,False,False,30
+AUD-13-07-33,Seminar Proposal,86207,1,1.0,False,False,30
+AUD-14-07-34,Bahasa Arab AUD,86207,1,1.0,False,False,27
+AUD-14-07-35,Dasar-dasar Teknologi,86207,1,1.0,False,False,26
+AUD-14-07-36,Metode Penelitian,86207,1,1.0,False,False,26
+AUD-14-07-37,Media Pembelajaran,86207,1,1.0,False,False,26
+AUD-14-07-38,Bimbingan dan Konseling AUD,86207,1,1.0,False,False,26
+AUD-14-07-39,Perencanaan Pembelajaran,86207,1,1.0,False,False,26
+AUD-14-07-40,Kewirausahaan,86207,1,1.0,False,False,26
+HES-12-02-01,Kajian Naskah Melayu,74234,1,1.0,False,False,29
+HES-12-02-02,Pengantar Ilmu Hukum di Indonesia,74234,1,1.0,False,False,27
+HES-12-02-03,Peradilan Agama di Indonesia,74234,1,1.0,False,False,28
+HES-12-02-04,Bahasa Arab Ekonomi,74234,1,1.0,False,False,27
+HES-12-02-05,English for Islamic Economic Law,74234,1,1.0,False,False,28
+HES-12-02-06,Sejarah Ekonomi Syariah,74234,1,1.0,False,False,29
+HES-12-02-07,Dasar-Dasar Ekonomi Syariah,74234,1,1.0,False,False,28
+HES-12-02-08,Pengantar Lembaga Keuangan Syariah (Bank dan Non Bank),74234,1,1.0,False,False,27
+HES-12-02-09,Pengantar Fikih Muamalah,74234,1,1.0,False,False,28
+HES-12-02-10,Ushul Fiqh Ekonomi Syariah,74234,1,1.0,False,False,27
+HES-12-02-22,Hukum Acara Peradilan Agama,74234,1,1.0,False,False,24
+HES-12-02-23,Komunikasi,74234,1,1.0,False,False,25
+HES-12-02-24,Kewirausahaan,74234,1,1.0,False,False,26
+HES-12-02-25,Hukum Investasi dan Pasar Modal Syariah,74234,1,1.0,False,False,23
+HES-12-02-26,Hukum Adat,74234,1,1.0,False,False,26
+HES-12-02-27,Fikih Mawaris,74234,1,1.0,False,False,24
+HES-12-02-28,Legal Opini Syariah,74234,1,1.0,False,False,23
+HES-12-02-29,Hukum Acara Perdata,74234,1,1.0,False,False,25
+HES-12-02-30,Hukum Acara Pidana,74234,1,1.0,False,False,26
+HES-12-02-31,Hukum Pidana Ekonomi,74234,1,1.0,False,False,24
+HES-12-02-39,Seminar Proposal,74234,1,1.0,False,False,24
+HES-13-02-01,Manajemen Keuangan Syariah,74234,1,1.0,False,False,24
+HES-13-02-11,Keadvokatan,74234,1,1.0,False,False,24
+HES-13-02-12,Kenotariatan,74234,1,1.0,False,False,28
+HES-13-02-13,Perencanaan Peraturan Perundang-undangan (Legal dan Contract Drafting),74234,1,1.0,False,False,26
+HES-13-02-14,Kontrak Bisnis Syariah,74234,1,1.0,False,False,25
+HES-13-02-15,Lembaga Keuangan Syariah,74234,1,1.0,False,False,24
+HES-13-02-16,Klinik Hukum,74234,1,1.0,False,False,24
+HES-13-02-17,Kemahiran Litigasi dan Non Litigasi,74234,1,1.0,False,False,25
+HES-13-02-18,Manajemen Sumberdaya Insani,74234,1,1.0,False,False,24
+HES-13-02-19,Etika dan Tanggung Jawab Profesi Hukum,74234,1,1.0,False,False,25
+HES-13-02-20,Kuliah Kerja Lapangan (KKL),74234,1,1.0,False,False,25
+HKI-12-01-03,Ushul Fiqh,74230,1,1.0,False,False,62
+HKI-12-01-04,Pengantar Hukum Indonesia,74230,1,1.0,False,False,63
+HKI-12-01-06,Ayat Hukum Perkawinan,74230,1,1.0,False,False,62
+HKI-12-01-07,Hadis Hukum Perkawinan,74230,1,1.0,False,False,62
+HKI-12-01-08,Fiqh Mawaris,74230,1,1.0,False,False,62
+HKI-12-01-09,Fiqh Munakahat,74230,1,1.0,False,False,62
+HKI-13-01-13,Alternatif Penyelesaian Sengketa,74230,1,1.0,False,False,28
+HKI-13-01-14,Administrasi Peradilan,74230,1,1.0,False,False,31
+HKI-13-01-15,Advokasi,74230,1,1.0,False,False,34
+HKI-13-01-16,Praktik Waris,74230,1,1.0,False,False,28
+HKI-13-01-17,Hukum Keluarga Kontemporer,74230,1,1.0,False,False,28
+HKI-13-01-18,Hukum Kewarisan Kontemporer,74230,1,1.0,False,False,29
+HKI-13-01-19,Sosiologi dan Antropologi Hukum Keluarga,74230,1,1.0,False,False,33
+HKI-13-01-20,Etika Profesi Hukum,74230,1,1.0,False,False,32
+HKI-13-01-21,Administrasi KUA dan Praktik kepenghuluan,74230,1,1.0,False,False,29
+HKI-13-01-22,Konseling Keluarga,74230,1,1.0,False,False,16
+HKI-14-01-01,Hukum Bisnis,74230,1,1.0,False,False,46
+HKI-14-01-02,Hukum Tata Negara,74230,1,1.0,False,False,41
+HKI-14-01-03,Teori Ilmu Falak,74230,1,1.0,False,False,44
+HKI-14-01-04,Hukum Pidana,74230,1,1.0,False,False,44
+HKI-14-01-05,Hukum Adat Melayu,74230,1,1.0,False,False,42
+HKI-14-01-06,Fiqh Jinayah,74230,1,1.0,False,False,43
+HKI-14-01-07,Hukum Administrasi Negara,74230,1,1.0,False,False,42
+HKI-14-01-08,Hukum Zakat & Wakaf,74230,1,1.0,False,False,43
+HKI-14-01-09,Legal Drafting,74230,1,1.0,False,False,40
+HKI-14-01-10,Hukum Perdata Internasional,74230,1,1.0,False,False,20
+HKI-14-01-11,Hukum Ekonomi Syariah,74230,1,1.0,False,False,31
+HKI-14-01-12,Psikologi Keluarga,74230,1,1.0,False,False,42
+HKI-14-01-13,Filsafat Hukum Islam,74230,1,1.0,False,False,42
+IAT-12-03-02,Imla' dan Khat,76231,1,1.0,False,False,28
+IAT-12-03-03,Sejarah Al-Qur'an,76231,1,1.0,False,False,26
+IAT-12-03-04,Sirah Nabawiyah,76231,1,1.0,False,False,26
+IAT-12-03-05,Tahfidz Juz 30,76231,1,1.0,False,False,30
+IAT-12-03-11,Tafsir Ayat Dakwah,76231,1,1.0,False,False,30
+IAT-12-03-12,Tafsir Ayat Ahkam,76231,1,1.0,False,False,32
+IAT-12-03-13,Tafsir Hadis Ahkam,76231,1,1.0,False,False,33
+IAT-12-03-25,Metodologi Penelitian Tafsir,76231,1,1.0,False,False,24
+IAT-12-03-26,Metode Terjemahan Al-Qur'an,76231,1,1.0,False,False,22
+IAT-12-03-27,Metode Pentashihan al-Qur'an,76231,1,1.0,False,False,25
+IAT-12-03-29,Metode Qiraatil Kutub,76231,1,1.0,False,False,24
+IAT-12-03-30,Managemen Rumah Tahfiz,76231,1,1.0,False,False,24
+IAT-12-03-31,Living Qur'an,76231,1,1.0,False,False,24
+IAT-12-03-32,Antropologi Al-Qur'an,76231,1,1.0,False,False,23
+IAT-12-03-33,Tafsir Ilmi,76231,1,1.0,False,False,25
+IAT-12-03-34,Pratikum Tafsir,76231,1,1.0,False,False,23
+IAT-13-03-02,English for Qur'an Translation,76231,1,1.0,False,False,25
+IAT-13-03-03,Bahasa Arab Qawa'id Lughawiyah,76231,1,1.0,False,False,25
+IAT-13-03-04,Usul Fiqih,76231,1,1.0,False,False,26
+IAT-13-03-05,Perkembangan Pemikiran Teologi Islam,76231,1,1.0,False,False,24
+IAT-13-03-06,Sejarah Peradaban Islam,76231,1,1.0,False,False,25
+IAT-13-03-14,Islamic Academic Writing,76231,1,1.0,False,False,31
+IAT-14-03-01,Dakwah Praktis,76231,1,1.0,False,False,31
+IAT-14-03-02,Teknik Komunikasi,76231,1,1.0,False,False,32
+IAT-14-03-03,Konten Kreator Al-Qur'an,76231,1,1.0,False,False,33
+IAT-14-03-04,Enterpreneurship,76231,1,1.0,False,False,31
+KPI-12-08-01,Bahasa Inggris Komunikasi,70233,1,1.0,False,False,21
+KPI-12-08-02,Bahasa Arab Komunikasi,70233,1,1.0,False,False,21
+KPI-12-08-05,Sosiologi Komunikasi,70233,1,1.0,False,False,21
+KPI-12-08-06,Komunikasi Bisnis,70233,1,1.0,False,False,21
+KPI-12-08-13,Pengantar Ilmu Dakwah,70233,1,1.0,False,False,21
+KPI-12-08-17,Manajemen Penyiaran,70233,1,1.0,False,False,13
+KPI-12-08-18,Teknik Editing,70233,1,1.0,False,False,12
+KPI-12-08-20,Pengantar Jurnalistik,70233,1,1.0,False,False,21
+KPI-12-08-21,Reportase dan Penulisan Berita,70233,1,1.0,False,False,11
+KPI-12-08-22,Jurnalistik Daring/Online,70233,1,1.0,False,False,15
+KPI-12-08-23,Analisa Berita,70233,1,1.0,False,False,16
+KPI-12-08-29,Metode Penelitian Komunikasi,70233,1,1.0,False,False,13
+KPI-12-08-31,Filsafat Ilmu,70233,1,1.0,False,False,21
+KPI-13-08-01,Public Relation,70233,1,1.0,False,False,14
+KPI-13-08-05,Sinematografi,70233,1,1.0,False,False,12
+KPI-13-08-06,Citizen Journalism,70233,1,1.0,False,False,25
+KPI-13-08-07,Kewirausahaan Digital,70233,1,1.0,False,False,23
+KPI-13-08-09,Cek fakta,70233,1,1.0,False,False,16
+KPI-14-08-01,Komunikasi Budaya dan Kemelayuan,70233,1,1.0,False,False,10
+KPI-14-08-02,Public Speaking,70233,1,1.0,False,False,24
+KPI-14-08-03,Tafsir Ayat Dakwah,70233,1,1.0,False,False,19
+KPI-14-08-04,Retorika Dakwah,70233,1,1.0,False,False,17
+KPI-14-08-05,Teknologi Informasi dan Komunikasi,70233,1,1.0,False,False,18
+KPI-14-08-06,Periklanan dan Branding,70233,1,1.0,False,False,36
+KPI-14-08-07,Konten Kreatif Visual,70233,1,1.0,False,False,17
+KPI-14-08-08,Teknik Penulisan Ilmiah dan Populer,70233,1,1.0,False,False,23
+MBS-12-06-06,Fikih Mu'amalah,61205,1,1.0,False,False,67
+MBS-12-06-07,Kepemimpinan,61205,1,1.0,False,False,67
+MBS-12-06-08,Mikroekonomi Bisnis Islam,61205,1,1.0,False,False,64
+MBS-12-06-09,Sistem Informasi Manajemen Dan Bisnis,61205,1,1.0,False,False,67
+MBS-13-06-37,Manajemen Keuangan Syari'ah,61205,1,1.0,False,False,27
+MBS-13-06-38,Manajemen Produksi dan Operasi Syari'ah,61205,1,1.0,False,False,27
+MBS-13-06-39,Manajemen Sumber Daya Manusia Syari'ah,61205,1,1.0,False,False,28
+MBS-13-06-40,Manajemen Pemasaran Syari'ah,61205,1,1.0,False,False,28
+MBS-13-06-41,Aplikasi Pengolah Data Kuantitatif,61205,1,1.0,False,False,28
+MBS-13-06-42,Perpajakan,61205,1,1.0,False,False,28
+MBS-13-06-43,Seminar Proposal,61205,1,1.0,False,False,28
+MBS-13-06-44,Manajemen Kinerja,61205,1,1.0,False,True,37
+MBS-13-06-45,Financial Technology (FINTECH),61205,1,1.0,False,True,33
+MBS-14-06-19,Pengantar Hukum Bisnis,61205,1,1.0,False,False,66
+MBS-14-06-20,Manajemen Strategi,61205,1,1.0,False,False,68
+MBS-14-06-21,Akuntansi Manajemen Dan Biaya,61205,1,1.0,False,False,69
+MBS-14-06-22,Kewirausahaan,61205,1,1.0,False,False,67
+MBS-14-06-23,Etika Bisnis Syari'ah,61205,1,1.0,False,False,66
+MBS-14-06-24,Bahasa Inggris Bisnis,61205,1,1.0,False,False,68
+MBS-14-06-25,Statistika Bisnis Dasar,61205,1,1.0,False,False,68
+MBS-14-06-26,Komunikasi Bisnis,61205,1,1.0,False,False,67
+MPI-12-04-03,Pengantar Manajemen,86231,1,1.0,False,False,24
+MPI-12-04-04,Komunikasi Pendidikan,86231,1,1.0,False,False,24
+MPI-12-04-05,Sejarah Pendidikan Islam,86231,1,1.0,False,False,24
+MPI-12-04-06,Kajian Naskah Melayu,86231,1,1.0,False,False,24
+MPI-12-04-07,Ilmu Kalam,86231,1,1.0,False,False,24
+MPI-12-04-08,Filsafat Manajemen Pendidikan Islam,86231,1,1.0,False,False,24
+MPI-12-04-09,Perilaku Organisasi,86231,1,1.0,False,False,24
+MPI-12-04-13,Manajemen keuangan Pendidikan,86231,1,1.0,False,False,32
+MPI-12-04-14,Manajemen Humas dan Public Relation,86231,1,1.0,False,False,32
+MPI-12-04-20,Seminar Proposal,86231,1,1.0,False,True,25
+MPI-13-04-09,Microleading,86231,1,1.0,False,False,25
+MPI-13-04-10,Asesment Lembaga Pendidikan,86231,1,1.0,False,False,24
+MPI-13-04-11,Pemasaran Pendidikan Digital,86231,1,1.0,False,False,24
+MPI-13-04-12,Manajemen Berbasis Sekolah dan Masyarakat,86231,1,1.0,False,False,24
+MPI-13-04-13,Event Manajemen,86231,1,1.0,False,False,24
+MPI-13-04-14,Aplikasi Analisis Data Pendidikan,86231,1,1.0,False,False,24
+MPI-14-04-01,Perencanaan Pendidikan,86231,1,1.0,False,False,31
+MPI-14-04-02,Manajemen Lembaga Pendidikan Islam,86231,1,1.0,False,False,31
+MPI-14-04-03,Manajemen Strategik,86231,1,1.0,False,False,31
+MPI-14-04-04,Metodologi Penelitian,86231,1,1.0,False,False,31
+MPI-14-04-05,Statistik Pendidikan,86231,1,1.0,False,False,31
+MPI-14-04-06,Kewirausahaan,86231,1,1.0,False,False,31
+MPI-14-04-07,Sejarah Peradaban Islam,86231,1,1.0,False,False,33
+MPI2-11-12-19,Seminar Proposal,86137,1,1.0,False,False,17
+MPI2-11-12-20,Tesis,86137,1,1.0,False,False,26
+MPI2-12-12-08,Analisis Kebijakan Pendidikan Islam,86137,1,1.0,False,False,35
+MPI2-12-12-09,Evaluasi Program Pendidikan,86137,1,1.0,False,False,35
+MPI2-12-12-10,Perencanaan Pengembangan Pendidikan Islam,86137,1,1.0,False,False,35
+MPI2-12-12-11,Pengembangan Sistem informasi Pendidikan,86137,1,1.0,False,False,35
+MPI2-12-12-12,Metodologi Penelitian Manajemen Pendidikan,86137,1,1.0,False,False,35
+MPI2-13-12-13,Manajemen Mutu Pendidikan,86137,1,1.0,False,False,14
+MPI2-13-12-14,Kepemimpinan Kepala Sekolah/Madrasah,86137,1,1.0,False,False,21
+MPI2-13-12-15,Pengembangan Supervisi Pendidikan Islam,86137,1,1.0,False,False,21
+MPI2-13-12-16,Sistem Akreditasi Pendidikan,86137,1,1.0,False,False,14
+PAI-12-11-01,Tafsir dan hadis Tarbawi,86230,1,1.0,False,False,124
+PAI-12-11-03,Fikih Muamalah,86230,1,1.0,False,False,124
+PAI-12-11-05,Ushul Fiqh,86230,1,1.0,False,False,124
+PAI-12-11-06,Sejarah peradaban islam,86230,1,1.0,False,False,123
+PAI-12-11-10,Ilmu Sosial Budaya Dasar,86230,1,1.0,False,False,125
+PAI-12-11-11,Strategi Pembelajaran PAI,86230,1,1.0,False,False,106
+PAI-12-11-17,Teori-teori Pembelajaran,86230,1,1.0,False,False,123
+PAI-12-11-19,Etika Profesi Keguruan,86230,1,1.0,False,False,100
+PAI-12-11-20,Materi Pembelajaran PAI di Sekolah/ Madrasah,86230,1,1.0,False,False,101
+PAI-12-11-21,Inovasi Pembelajaran PAI,86230,1,1.0,False,False,103
+PAI-12-11-22,Isu-isu Aktual Pendidikan Agama Islam,86230,1,1.0,False,False,105
+PAI-13-11-23,psikologi pendidikan,86230,1,1.0,False,False,123
+PAI-13-11-30,filsafat pendidikan islam,86230,1,1.0,False,False,123
+PAI-13-11-32,Pendidikan kewirausahaan teori dan praktek,86230,1,1.0,False,False,101
+PAI-13-11-33,Entrepreneurship,86230,1,1.0,False,False,105
+PAI-13-11-34,Metode Pantun Pembelajaran PAI,86230,1,1.0,False,False,102
+PAI-13-11-35,Seminar Proposal,86230,1,1.0,False,False,101
+PAI-14-11-37,Administarsi dan Supervisi Pendidikan,86230,1,1.0,False,False,110
+PAI-14-11-39,Metodologi Penelitian Pendidikan,86230,1,1.0,False,False,106
+PAI-14-11-41,Pembangunan Karakter,86230,1,1.0,False,False,102
+PAI-14-11-42,Media dan Teknologi Pembelajaran PAI,86230,1,1.0,False,False,105
+PAI-14-11-43,Psikologi Perkembangan,86230,1,1.0,False,False,104
+PAI-14-11-44,Kajian Naskah Melayu,86230,1,1.0,False,False,105
+PAI-14-11-45,Statistik Pendidikan,86230,1,1.0,False,False,109
+PBA-12-10-03,Tafa'ul Ittishaly,88204,1,1.0,False,False,25
+PBA-12-10-06,Istima' Maqal wa Qishah,88204,1,1.0,False,False,25
+PBA-12-10-09,Muthala'ah,88204,1,1.0,False,False,25
+PBA-12-10-12,Insya Asasi,88204,1,1.0,False,False,25
+PBA-12-10-14,Ilmu Ashwat,88204,1,1.0,False,False,25
+PBA-12-10-15,Nahwu Awal,88204,1,1.0,False,False,24
+PBA-12-10-18,Sharaf Awal,88204,1,1.0,False,False,25
+PBA-12-10-21,Tarjamah Asasi,88204,1,1.0,False,False,23
+PBA-12-10-25,Filsafat Ilmu,88204,1,1.0,False,False,25
+PBA-12-10-26,Arabiyah Lil-Mutawasithah,88204,1,1.0,False,False,15
+PBA-12-10-31,Teknologi dan E-Learning PBA,88204,1,1.0,False,False,15
+PBA-12-10-32,Evaluasi Pembelajaran Bahasa Arab,88204,1,1.0,False,False,15
+PBA-12-10-33,Seminar Proposal,88204,1,1.0,False,False,15
+PBA-13-10-03,Profesi dan Etika Keguruan,88204,1,1.0,False,False,15
+PBA-13-10-04,Profesionalisme dan Kepemimpinan,88204,1,1.0,False,False,15
+PBA-13-10-05,Kaligrafi,88204,1,1.0,False,False,15
+PBA-13-10-07,Arabiyah Lissiyahah Al Malayuwiyah,88204,1,1.0,False,False,23
+PBA-13-10-08,Fush’amiyah,88204,1,1.0,False,False,15
+PBA-13-10-09,Arabiyah Littijarah,88204,1,1.0,False,False,8
+PBA-13-10-10,Manajemen Haji dan Umroh,88204,1,1.0,False,False,8
+PBA-14-10-01,Media Pembelajaran Bahasa Arab,88204,1,1.0,False,False,27
+PBA-14-10-02,Ilmu Bayan wa Ma'any,88204,1,1.0,False,False,23
+PBA-14-10-03,Psikologi Pendidikan,88204,1,1.0,False,False,23
+PBA-14-10-04,Desain Pembelajaran Bahasa Arab,88204,1,1.0,False,False,23
+PBA-14-10-05,Arabiyah Lil-Athfal,88204,1,1.0,False,False,22
+PBA-14-10-06,Sejarah Peradabaan Islam,88204,1,1.0,False,False,21
+PBA-14-10-07,Administrasi dan Supervisi Pendidikan,88204,1,1.0,False,False,23
+PBA-14-10-08,Kewirausahaan,88204,1,1.0,False,False,27
+PBA-14-10-09,English for Academic Purposes,88204,1,1.0,False,False,23
+PTA-11-00-01,Pancasila dan Kewarganegaraan,61205,4,0.36,True,False,186
+PTA-11-00-02,Bahasa Arab,62202,2,0.655,True,False,58
+PTA-11-00-04,Studi Qur'an dan Hadis,86207,2,0.543,True,False,46
+PTA-11-00-05,Bahasa Indonesia,61205,5,0.315,True,False,213
+PTA-11-00-06,Fikih,88204,2,0.521,True,False,48
+PTA-11-00-07,Tamaddun Melayu,61205,1,1.0,False,False,65
+PTA-11-00-08,Akidah dan Akhlak Tasawuf,86230,5,0.484,True,False,256
+PTA-11-00-09,Studi Islam dan Moderasi Beragama,61205,5,0.313,True,False,214
+PTA-11-00-12,Tugas Akhir Skripsi,76231,2,0.7,True,False,20
+SYA120108,Skripsi,61205,3,0.459,True,False,74
+TAR120110,Skripsi,86230,4,0.529,True,False,85
+TBI-12-05-07,Speaking for Formal Communication,88203,1,1.0,False,False,21
+TBI-12-05-08,Paragraph Writing,88203,1,1.0,False,False,21
+TBI-12-05-09,Written and Spoken English Grammar,88203,1,1.0,False,False,21
+TBI-12-05-11,Extensive Listening,88203,1,1.0,False,False,16
+TBI-12-05-14,Sejarah Pendidikan Islam Indonesia,88203,1,1.0,False,False,20
+TBI-12-05-15,Academic Writing,88203,1,1.0,False,False,16
+TBI-12-05-23,Language Materials Development,88203,1,1.0,False,False,7
+TBI-12-05-24,Issues in TEFL,88203,1,1.0,False,False,7
+TBI-12-05-25,Sociolinguistics,88203,1,1.0,False,False,7
+TBI-12-05-27,Language Assessment,88203,1,1.0,False,False,7
+TBI-12-05-31,Interpreting,88203,1,1.0,False,False,7
+TBI-12-05-32,Seminar in ELT,88203,1,1.0,False,False,7
+TBI-13-05-01,Teaching English For Young Learners,88203,1,1.0,False,True,12
+TBI-13-05-02,English For Bussiness,88203,1,1.0,False,True,2
+TBI-13-05-03,Content Writing for Creative Industry,88203,1,1.0,False,True,12
+TBI-13-05-04,English for Tourism,88203,1,1.0,False,True,7
+TBI-14-05-01,English Language Teaching Media,88203,1,1.0,False,False,16
+TBI-14-05-02,Administration and Supervision in Education,88203,1,1.0,False,False,14
+TBI-14-05-03,Intercultural Awareness,88203,1,1.0,False,False,22
+TBI-14-05-04,Entrepreneurship,88203,1,1.0,False,False,17
+TBI-14-05-05,Critical Reading,88203,1,1.0,False,False,17
+TBI-14-05-06,ICT in ELT,88203,1,1.0,False,False,16
+USH120332,Skripsi,70233,1,1.0,False,False,4

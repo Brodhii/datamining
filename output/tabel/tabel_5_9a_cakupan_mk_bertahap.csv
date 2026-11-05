@@ -1,0 +1,9 @@
+﻿Tahap penyaringan,Jumlah MK,Persen dari seluruh MK
+Kode MK setelah preprocessing,300,100.0
+Nilainya bervariasi (SD > 0),290,96.7
+SD >= 1,270,90.0
+Diambil >= 30 mahasiswa,109,36.3
+Diambil >= 30 mahasiswa dan SD >= 1,102,34.0
+Punya minimal 1 pasangan teruji (n >= 30),94,31.3
+Punya minimal 1 pasangan signifikan (FDR),84,28.0
+Masuk jaringan utama (edge positif),78,26.0

@@ -1,0 +1,8 @@
+﻿Keterangan,Nilai
+Pasangan,IAT-14-03-02 - IAT-14-03-03
+n (seluruh mahasiswa bersama),32
+rho,0.7595
+t = rho*sqrt((n-2)/(1-rho^2)),6.3941
+df,30
+p (hitung manual),4.659e-07
+p (scipy.stats.spearmanr),4.659e-07

@@ -1,0 +1,114 @@
+﻿Kode MK A,Nama MK A,Kode MK B,Nama MK B,n,rho,q,Kategori,CI95 bawah,CI95 atas,Share bootstrap rho >= rho min,Skenario dgn kedua MK,Share satu komunitas,Kuat,Konsisten,Kuat dan konsisten
+MPI-12-04-13,Manajemen keuangan Pendidikan,MPI-14-04-01,Perencanaan Pendidikan,31,0.809,1e-06,Dalam prodi (kedua MK satu prodi),0.627,0.876,1.0,8,1.0,True,True,True
+IAT-14-03-02,Teknik Komunikasi,IAT-14-03-03,Konten Kreator Al-Qur'an,32,0.759,1.2e-05,Dalam prodi (kedua MK satu prodi),0.486,0.923,1.0,8,1.0,True,True,True
+MBS-13-06-45,Financial Technology (FINTECH),MBS-14-06-23,Etika Bisnis Syari'ah,31,0.757,1.5e-05,Dalam prodi (kedua MK satu prodi),0.487,0.907,1.0,8,1.0,True,True,True
+MBS-13-06-45,Financial Technology (FINTECH),MBS-14-06-20,Manajemen Strategi,32,0.699,0.000118,Dalam prodi (kedua MK satu prodi),0.474,0.885,0.995,8,1.0,True,True,True
+PAI-13-11-23,psikologi pendidikan,PAI-13-11-30,filsafat pendidikan islam,123,0.685,0.0,Dalam prodi (kedua MK satu prodi),0.546,0.764,1.0,14,1.0,True,True,True
+MPI-12-04-14,Manajemen Humas dan Public Relation,MPI-14-04-01,Perencanaan Pendidikan,31,0.678,0.000262,Dalam prodi (kedua MK satu prodi),0.441,0.845,1.0,8,1.0,True,True,True
+PAI-12-11-21,Inovasi Pembelajaran PAI,PAI-14-11-41,Pembangunan Karakter,101,0.669,0.0,Dalam prodi (kedua MK satu prodi),0.545,0.785,1.0,14,1.0,True,True,True
+AUD-12-07-15,Administrasi dan Manajemen,AUD-13-07-28,Design Content Digital,30,0.662,0.000526,Dalam prodi (kedua MK satu prodi),0.405,0.797,1.0,8,1.0,True,True,True
+PAI-14-11-39,Metodologi Penelitian Pendidikan,PAI-14-11-43,Psikologi Perkembangan,104,0.652,0.0,Dalam prodi (kedua MK satu prodi),0.506,0.762,1.0,14,1.0,True,True,True
+MPI2-12-12-10,Perencanaan Pengembangan Pendidikan Islam,MPI2-12-12-12,Metodologi Penelitian Manajemen Pendidikan,35,0.646,0.000264,Dalam prodi (kedua MK satu prodi),0.381,0.8,0.99,8,1.0,True,True,True
+MPI-12-04-13,Manajemen keuangan Pendidikan,MPI-14-04-04,Metodologi Penelitian,31,0.642,0.000718,Dalam prodi (kedua MK satu prodi),0.403,0.82,0.995,8,1.0,True,True,True
+HKI-14-01-02,Hukum Tata Negara,HKI-14-01-06,Fiqh Jinayah,41,0.618,0.000172,Dalam prodi (kedua MK satu prodi),0.431,0.807,0.995,11,1.0,True,True,True
+HKI-14-01-01,Hukum Bisnis,HKI-14-01-07,Hukum Administrasi Negara,39,0.613,0.00031,Dalam prodi (kedua MK satu prodi),0.363,0.778,0.99,8,1.0,True,True,True
+MBS-13-06-45,Financial Technology (FINTECH),MBS-14-06-24,Bahasa Inggris Bisnis,32,0.608,0.001438,Dalam prodi (kedua MK satu prodi),0.319,0.799,0.975,8,1.0,True,True,True
+HKI-12-01-08,Fiqh Mawaris,PTA-11-00-05,Bahasa Indonesia,62,0.605,5e-06,Melibatkan MK multi-prodi,0.454,0.726,1.0,14,1.0,True,True,True
+MPI-12-04-14,Manajemen Humas dan Public Relation,MPI-14-04-02,Manajemen Lembaga Pendidikan Islam,31,0.591,0.002588,Dalam prodi (kedua MK satu prodi),0.337,0.771,0.985,8,1.0,True,True,True
+HKI-12-01-07,Hadis Hukum Perkawinan,HKI-12-01-08,Fiqh Mawaris,62,0.587,1.2e-05,Dalam prodi (kedua MK satu prodi),0.409,0.725,1.0,14,1.0,True,True,True
+HKI-14-01-07,Hukum Administrasi Negara,HKI-14-01-09,Legal Drafting,39,0.583,0.000718,Dalam prodi (kedua MK satu prodi),0.342,0.773,0.99,8,1.0,True,True,True
+MBS-13-06-45,Financial Technology (FINTECH),MBS-14-06-25,Statistika Bisnis Dasar,32,0.581,0.00271,Dalam prodi (kedua MK satu prodi),0.253,0.768,0.95,8,1.0,True,True,True
+MPI-12-04-13,Manajemen keuangan Pendidikan,MPI-12-04-14,Manajemen Humas dan Public Relation,32,0.576,0.002987,Dalam prodi (kedua MK satu prodi),0.269,0.764,0.965,8,1.0,True,True,True
+MPI2-12-12-09,Evaluasi Program Pendidikan,MPI2-12-12-10,Perencanaan Pengembangan Pendidikan Islam,35,0.572,0.001968,Dalam prodi (kedua MK satu prodi),0.24,0.771,0.955,8,1.0,True,True,True
+HKI-13-01-14,Administrasi Peradilan,HKI-13-01-15,Advokasi,31,0.563,0.004589,Dalam prodi (kedua MK satu prodi),0.286,0.835,0.96,8,1.0,True,True,True
+MBS-13-06-45,Financial Technology (FINTECH),MBS-14-06-22,Kewirausahaan,32,0.563,0.003959,Dalam prodi (kedua MK satu prodi),0.188,0.75,0.93,8,1.0,True,True,True
+PAI-14-11-37,Administarsi dan Supervisi Pendidikan,PAI-14-11-39,Metodologi Penelitian Pendidikan,101,0.559,0.0,Dalam prodi (kedua MK satu prodi),0.373,0.696,1.0,14,1.0,True,True,True
+MPI2-12-12-09,Evaluasi Program Pendidikan,MPI2-12-12-12,Metodologi Penelitian Manajemen Pendidikan,35,0.554,0.002987,Dalam prodi (kedua MK satu prodi),0.208,0.803,0.915,8,1.0,True,True,True
+HKI-12-01-07,Hadis Hukum Perkawinan,PTA-11-00-05,Bahasa Indonesia,62,0.553,5.2e-05,Melibatkan MK multi-prodi,0.312,0.736,0.99,14,1.0,True,True,True
+HKI-14-01-05,Hukum Adat Melayu,HKI-14-01-08,Hukum Zakat & Wakaf,41,0.552,0.001251,Dalam prodi (kedua MK satu prodi),0.339,0.727,0.985,11,1.0,True,True,True
+AUD-12-07-13,Keselamatan dan Perlindungan Anak,AUD-13-07-28,Design Content Digital,30,0.548,0.007504,Dalam prodi (kedua MK satu prodi),0.241,0.785,0.945,8,1.0,True,True,True
+MBS-12-06-09,Sistem Informasi Manajemen Dan Bisnis,PTA-11-00-01,Pancasila dan Kewarganegaraan,67,0.548,2.7e-05,Melibatkan MK multi-prodi,0.347,0.731,0.99,14,1.0,True,True,True
+MPI-14-04-01,Perencanaan Pendidikan,MPI-14-04-04,Metodologi Penelitian,31,0.548,0.006354,Dalam prodi (kedua MK satu prodi),0.318,0.73,0.975,8,1.0,True,True,True
+HKI-14-01-05,Hukum Adat Melayu,HKI-14-01-13,Filsafat Hukum Islam,41,0.545,0.001456,Dalam prodi (kedua MK satu prodi),0.259,0.79,0.96,11,1.0,True,True,True
+PAI-12-11-11,Strategi Pembelajaran PAI,PAI-12-11-22,Isu-isu Aktual Pendidikan Agama Islam,105,0.543,0.0,Dalam prodi (kedua MK satu prodi),0.37,0.682,1.0,14,1.0,True,True,True
+PTA-11-00-07,Tamaddun Melayu,PTA-11-00-08,Akidah dan Akhlak Tasawuf,64,0.541,6e-05,Melibatkan MK multi-prodi,0.345,0.71,0.985,14,1.0,True,True,True
+IAT-14-03-01,Dakwah Praktis,IAT-14-03-03,Konten Kreator Al-Qur'an,31,0.538,0.007598,Dalam prodi (kedua MK satu prodi),0.244,0.746,0.93,8,1.0,True,True,True
+PAI-14-11-37,Administarsi dan Supervisi Pendidikan,PAI-14-11-43,Psikologi Perkembangan,99,0.533,1e-06,Dalam prodi (kedua MK satu prodi),0.361,0.692,1.0,14,1.0,True,True,True
+PAI-13-11-33,Entrepreneurship,PAI-14-11-37,Administarsi dan Supervisi Pendidikan,100,0.532,1e-06,Dalam prodi (kedua MK satu prodi),0.355,0.659,1.0,14,1.0,True,True,True
+HKI-12-01-04,Pengantar Hukum Indonesia,PTA-11-00-01,Pancasila dan Kewarganegaraan,62,0.53,0.000122,Melibatkan MK multi-prodi,0.285,0.713,0.965,14,0.929,True,True,True
+HKI-12-01-06,Ayat Hukum Perkawinan,PTA-11-00-01,Pancasila dan Kewarganegaraan,62,0.523,0.000145,Melibatkan MK multi-prodi,0.318,0.715,0.98,14,1.0,True,True,True
+PAI-12-11-22,Isu-isu Aktual Pendidikan Agama Islam,PAI-14-11-37,Administarsi dan Supervisi Pendidikan,100,0.51,2e-06,Dalam prodi (kedua MK satu prodi),0.332,0.661,0.995,14,1.0,True,True,True
+AUD-12-07-13,Keselamatan dan Perlindungan Anak,AUD-12-07-15,Administrasi dan Manajemen,30,0.509,0.014248,Dalam prodi (kedua MK satu prodi),0.237,0.761,0.92,8,1.0,True,True,True
+HKI-14-01-06,Fiqh Jinayah,HKI-14-01-07,Hukum Administrasi Negara,42,0.507,0.003192,Dalam prodi (kedua MK satu prodi),0.329,0.659,0.99,11,1.0,True,True,True
+MPI2-12-12-10,Perencanaan Pengembangan Pendidikan Islam,MPI2-12-12-11,Pengembangan Sistem informasi Pendidikan,35,0.503,0.008608,Dalam prodi (kedua MK satu prodi),0.185,0.731,0.91,8,1.0,True,True,True
+IAT-12-03-13,Tafsir Hadis Ahkam,IAT-14-03-01,Dakwah Praktis,31,0.514,0.011397,Dalam prodi (kedua MK satu prodi),0.194,0.762,0.875,8,1.0,True,False,False
+PAI-14-11-39,Metodologi Penelitian Pendidikan,PAI-14-11-45,Statistik Pendidikan,104,0.5,2e-06,Dalam prodi (kedua MK satu prodi),0.343,0.616,1.0,10,1.0,False,True,False
+MBS-14-06-19,Pengantar Hukum Bisnis,MBS-14-06-20,Manajemen Strategi,63,0.495,0.000327,Dalam prodi (kedua MK satu prodi),0.297,0.666,0.97,10,1.0,False,True,False
+MPI-14-04-04,Metodologi Penelitian,MPI-14-04-06,Kewirausahaan,31,0.492,0.016372,Dalam prodi (kedua MK satu prodi),0.172,0.7,0.895,6,1.0,False,False,False
+AUD-13-07-17,Neurosains,AUD-13-07-30,Event Organizer for Kids,30,0.491,0.01828,Dalam prodi (kedua MK satu prodi),0.167,0.715,0.9,6,1.0,False,True,False
+PAI-13-11-23,psikologi pendidikan,PTA-11-00-08,Akidah dan Akhlak Tasawuf,123,0.482,1e-06,Melibatkan MK multi-prodi,0.302,0.608,0.975,14,0.714,False,False,False
+IAT-13-03-14,Islamic Academic Writing,IAT-14-03-01,Dakwah Praktis,31,0.481,0.018739,Dalam prodi (kedua MK satu prodi),0.204,0.663,0.9,5,1.0,False,True,False
+HKI-14-01-01,Hukum Bisnis,HKI-14-01-09,Legal Drafting,36,0.48,0.011205,Dalam prodi (kedua MK satu prodi),0.175,0.757,0.875,8,1.0,False,False,False
+MBS-14-06-23,Etika Bisnis Syari'ah,MBS-14-06-26,Komunikasi Bisnis,66,0.48,0.000374,Dalam prodi (kedua MK satu prodi),0.274,0.634,0.945,10,1.0,False,True,False
+HKI-14-01-05,Hukum Adat Melayu,HKI-14-01-09,Legal Drafting,38,0.474,0.010107,Dalam prodi (kedua MK satu prodi),0.14,0.755,0.875,8,0.75,False,False,False
+MPI2-12-12-09,Evaluasi Program Pendidikan,MPI2-12-12-11,Pengembangan Sistem informasi Pendidikan,35,0.472,0.014248,Dalam prodi (kedua MK satu prodi),0.216,0.721,0.905,8,1.0,False,True,False
+PAI-12-11-19,Etika Profesi Keguruan,PAI-13-11-34,Metode Pantun Pembelajaran PAI,100,0.472,1.3e-05,Dalam prodi (kedua MK satu prodi),0.306,0.628,0.975,10,1.0,False,True,False
+MBS-13-06-44,Manajemen Kinerja,MBS-14-06-23,Etika Bisnis Syari'ah,35,0.469,0.015142,Dalam prodi (kedua MK satu prodi),-0.101,0.862,0.753,6,1.0,False,False,False
+MPI-14-04-05,Statistik Pendidikan,MPI-14-04-06,Kewirausahaan,31,0.468,0.023462,Dalam prodi (kedua MK satu prodi),0.113,0.698,0.86,6,1.0,False,False,False
+MBS-14-06-20,Manajemen Strategi,MBS-14-06-22,Kewirausahaan,67,0.466,0.000536,Dalam prodi (kedua MK satu prodi),0.2,0.683,0.885,12,1.0,False,False,False
+PAI-13-11-33,Entrepreneurship,PAI-14-11-39,Metodologi Penelitian Pendidikan,105,0.465,1.2e-05,Dalam prodi (kedua MK satu prodi),0.291,0.61,0.97,14,1.0,False,True,False
+PAI-12-11-22,Isu-isu Aktual Pendidikan Agama Islam,PAI-14-11-39,Metodologi Penelitian Pendidikan,105,0.464,1.2e-05,Dalam prodi (kedua MK satu prodi),0.283,0.587,0.955,14,1.0,False,True,False
+MPI-12-04-14,Manajemen Humas dan Public Relation,MPI-14-04-06,Kewirausahaan,31,0.462,0.024855,Dalam prodi (kedua MK satu prodi),0.064,0.799,0.78,6,1.0,False,False,False
+MBS-13-06-45,Financial Technology (FINTECH),MBS-14-06-19,Pengantar Hukum Bisnis,30,0.461,0.028422,Dalam prodi (kedua MK satu prodi),0.174,0.677,0.87,6,1.0,False,False,False
+PTA-11-00-02,Bahasa Arab,PTA-11-00-05,Bahasa Indonesia,57,0.456,0.002166,Melibatkan MK multi-prodi,0.26,0.635,0.92,10,1.0,False,True,False
+AUD-13-07-30,Event Organizer for Kids,AUD-13-07-31,Outbond for Kids,30,0.451,0.032568,Dalam prodi (kedua MK satu prodi),0.05,0.756,0.785,6,1.0,False,False,False
+IAT-14-03-01,Dakwah Praktis,IAT-14-03-02,Teknik Komunikasi,31,0.449,0.030527,Dalam prodi (kedua MK satu prodi),0.13,0.723,0.81,8,1.0,False,False,False
+MPI-14-04-04,Metodologi Penelitian,MPI-14-04-05,Statistik Pendidikan,31,0.443,0.032568,Dalam prodi (kedua MK satu prodi),-0.037,0.705,0.78,6,1.0,False,False,False
+MBS-14-06-19,Pengantar Hukum Bisnis,MBS-14-06-24,Bahasa Inggris Bisnis,63,0.439,0.001926,Dalam prodi (kedua MK satu prodi),0.249,0.632,0.875,10,1.0,False,False,False
+MBS-12-06-08,Mikroekonomi Bisnis Islam,PTA-11-00-08,Akidah dan Akhlak Tasawuf,64,0.438,0.001846,Melibatkan MK multi-prodi,0.225,0.623,0.89,10,1.0,False,False,False
+HKI-14-01-03,Teori Ilmu Falak,HKI-14-01-12,Psikologi Keluarga,42,0.435,0.01407,Dalam prodi (kedua MK satu prodi),0.191,0.641,0.795,7,1.0,False,False,False
+PAI-12-11-11,Strategi Pembelajaran PAI,PAI-14-11-42,Media dan Teknologi Pembelajaran PAI,104,0.432,7.1e-05,Dalam prodi (kedua MK satu prodi),0.22,0.591,0.915,10,1.0,False,True,False
+PTA-11-00-06,Fikih,PTA-11-00-08,Akidah dan Akhlak Tasawuf,47,0.428,0.010234,Melibatkan MK multi-prodi,0.127,0.716,0.775,8,1.0,False,False,False
+PAI-14-11-39,Metodologi Penelitian Pendidikan,PAI-14-11-42,Media dan Teknologi Pembelajaran PAI,104,0.425,9.8e-05,Dalam prodi (kedua MK satu prodi),0.248,0.58,0.93,10,1.0,False,True,False
+PAI-13-11-34,Metode Pantun Pembelajaran PAI,PAI-14-11-41,Pembangunan Karakter,101,0.424,0.000122,Dalam prodi (kedua MK satu prodi),0.243,0.562,0.91,10,1.0,False,True,False
+PAI-14-11-43,Psikologi Perkembangan,PAI-14-11-45,Statistik Pendidikan,103,0.416,0.000141,Dalam prodi (kedua MK satu prodi),0.248,0.578,0.93,10,1.0,False,True,False
+HKI-12-01-04,Pengantar Hukum Indonesia,HKI-12-01-08,Fiqh Mawaris,62,0.412,0.004308,Dalam prodi (kedua MK satu prodi),0.186,0.595,0.81,14,0.5,False,False,False
+HKI-14-01-02,Hukum Tata Negara,HKI-14-01-07,Hukum Administrasi Negara,41,0.412,0.022213,Dalam prodi (kedua MK satu prodi),0.151,0.614,0.74,11,1.0,False,False,False
+MBS-13-06-45,Financial Technology (FINTECH),MBS-14-06-21,Akuntansi Manajemen Dan Biaya,33,0.411,0.043002,Dalam prodi (kedua MK satu prodi),0.026,0.657,0.74,4,1.0,False,False,False
+PAI-12-11-22,Isu-isu Aktual Pendidikan Agama Islam,PAI-14-11-43,Psikologi Perkembangan,104,0.41,0.000167,Dalam prodi (kedua MK satu prodi),0.266,0.564,0.92,14,1.0,False,True,False
+PAI-13-11-33,Entrepreneurship,PAI-14-11-43,Psikologi Perkembangan,104,0.405,0.000199,Dalam prodi (kedua MK satu prodi),0.234,0.563,0.91,14,1.0,False,True,False
+HKI-14-01-08,Hukum Zakat & Wakaf,HKI-14-01-13,Filsafat Hukum Islam,42,0.403,0.023462,Dalam prodi (kedua MK satu prodi),0.129,0.661,0.8,11,1.0,False,False,False
+MBS-12-06-09,Sistem Informasi Manajemen Dan Bisnis,PTA-11-00-09,Studi Islam dan Moderasi Beragama,67,0.401,0.003876,Melibatkan MK multi-prodi,0.139,0.609,0.785,10,1.0,False,False,False
+PAI-13-11-32,Pendidikan kewirausahaan teori dan praktek,PAI-13-11-34,Metode Pantun Pembelajaran PAI,100,0.4,0.000325,Dalam prodi (kedua MK satu prodi),0.236,0.526,0.895,10,1.0,False,False,False
+HKI-14-01-09,Legal Drafting,HKI-14-01-13,Filsafat Hukum Islam,39,0.395,0.033311,Dalam prodi (kedua MK satu prodi),0.077,0.655,0.75,8,0.75,False,False,False
+MBS-12-06-08,Mikroekonomi Bisnis Islam,PTA-11-00-07,Tamaddun Melayu,64,0.389,0.006557,Dalam prodi (kedua MK satu prodi),0.157,0.587,0.78,10,1.0,False,False,False
+PAI-12-11-01,Tafsir dan hadis Tarbawi,PAI-12-11-05,Ushul Fiqh,123,0.387,0.000122,Dalam prodi (kedua MK satu prodi),0.205,0.551,0.845,6,1.0,False,False,False
+PAI-12-11-21,Inovasi Pembelajaran PAI,PAI-13-11-34,Metode Pantun Pembelajaran PAI,102,0.384,0.000526,Dalam prodi (kedua MK satu prodi),0.211,0.557,0.82,10,1.0,False,False,False
+HKI-12-01-03,Ushul Fiqh,HKI-12-01-04,Pengantar Hukum Indonesia,62,0.382,0.008705,Dalam prodi (kedua MK satu prodi),0.153,0.597,0.75,6,1.0,False,False,False
+HKI-14-01-06,Fiqh Jinayah,HKI-14-01-09,Legal Drafting,39,0.382,0.04098,Dalam prodi (kedua MK satu prodi),0.076,0.626,0.72,8,1.0,False,False,False
+HKI-12-01-04,Pengantar Hukum Indonesia,HKI-12-01-09,Fiqh Munakahat,62,0.381,0.008927,Dalam prodi (kedua MK satu prodi),0.165,0.567,0.795,6,1.0,False,False,False
+MBS-12-06-07,Kepemimpinan,PTA-11-00-08,Akidah dan Akhlak Tasawuf,64,0.373,0.009177,Melibatkan MK multi-prodi,0.194,0.516,0.72,6,0.0,False,False,False
+MBS-14-06-20,Manajemen Strategi,MBS-14-06-25,Statistika Bisnis Dasar,68,0.363,0.009177,Dalam prodi (kedua MK satu prodi),0.163,0.553,0.685,10,1.0,False,False,False
+MBS-14-06-24,Bahasa Inggris Bisnis,MBS-14-06-25,Statistika Bisnis Dasar,68,0.362,0.009177,Dalam prodi (kedua MK satu prodi),0.144,0.55,0.775,10,1.0,False,False,False
+PAI-12-11-19,Etika Profesi Keguruan,PAI-13-11-35,Seminar Proposal,100,0.359,0.001571,Dalam prodi (kedua MK satu prodi),0.173,0.528,0.725,6,1.0,False,False,False
+HKI-12-01-06,Ayat Hukum Perkawinan,PTA-11-00-09,Studi Islam dan Moderasi Beragama,62,0.358,0.01467,Melibatkan MK multi-prodi,0.076,0.614,0.685,10,1.0,False,False,False
+PAI-12-11-11,Strategi Pembelajaran PAI,PAI-14-11-39,Metodologi Penelitian Pendidikan,105,0.354,0.001416,Dalam prodi (kedua MK satu prodi),0.18,0.505,0.725,14,1.0,False,False,False
+MBS-12-06-09,Sistem Informasi Manajemen Dan Bisnis,PTA-11-00-05,Bahasa Indonesia,67,0.348,0.013957,Melibatkan MK multi-prodi,0.137,0.566,0.665,14,0.429,False,False,False
+HKI-12-01-04,Pengantar Hukum Indonesia,PTA-11-00-05,Bahasa Indonesia,62,0.346,0.01828,Melibatkan MK multi-prodi,0.145,0.553,0.685,14,0.5,False,False,False
+HKI-12-01-07,Hadis Hukum Perkawinan,HKI-12-01-09,Fiqh Munakahat,62,0.346,0.01828,Dalam prodi (kedua MK satu prodi),0.104,0.546,0.65,6,1.0,False,False,False
+MBS-12-06-07,Kepemimpinan,MBS-12-06-09,Sistem Informasi Manajemen Dan Bisnis,67,0.346,0.014248,Dalam prodi (kedua MK satu prodi),-0.016,0.588,0.625,6,1.0,False,False,False
+HKI-12-01-09,Fiqh Munakahat,PTA-11-00-05,Bahasa Indonesia,62,0.345,0.018395,Melibatkan MK multi-prodi,0.104,0.536,0.615,6,1.0,False,False,False
+PAI-14-11-42,Media dan Teknologi Pembelajaran PAI,PAI-14-11-45,Statistik Pendidikan,103,0.341,0.002396,Dalam prodi (kedua MK satu prodi),0.137,0.528,0.675,10,1.0,False,False,False
+HKI-12-01-04,Pengantar Hukum Indonesia,HKI-12-01-07,Hadis Hukum Perkawinan,62,0.34,0.020556,Dalam prodi (kedua MK satu prodi),0.111,0.501,0.63,14,0.5,False,False,False
+PAI-14-11-42,Media dan Teknologi Pembelajaran PAI,PAI-14-11-43,Psikologi Perkembangan,104,0.34,0.002396,Dalam prodi (kedua MK satu prodi),0.16,0.492,0.67,10,1.0,False,False,False
+MBS-12-06-08,Mikroekonomi Bisnis Islam,PTA-11-00-09,Studi Islam dan Moderasi Beragama,64,0.331,0.022254,Melibatkan MK multi-prodi,0.11,0.531,0.575,10,0.0,False,False,False
+PAI-12-11-22,Isu-isu Aktual Pendidikan Agama Islam,PAI-13-11-33,Entrepreneurship,105,0.33,0.003102,Dalam prodi (kedua MK satu prodi),0.181,0.503,0.665,14,1.0,False,False,False
+PAI-14-11-37,Administarsi dan Supervisi Pendidikan,PAI-14-11-45,Statistik Pendidikan,99,0.329,0.004308,Dalam prodi (kedua MK satu prodi),0.142,0.481,0.65,10,1.0,False,False,False
+PAI-14-11-37,Administarsi dan Supervisi Pendidikan,PAI-14-11-42,Media dan Teknologi Pembelajaran PAI,99,0.323,0.00515,Dalam prodi (kedua MK satu prodi),0.141,0.483,0.65,10,1.0,False,False,False
+HKI-12-01-03,Ushul Fiqh,HKI-12-01-07,Hadis Hukum Perkawinan,62,0.32,0.030109,Dalam prodi (kedua MK satu prodi),0.073,0.492,0.535,6,1.0,False,False,False
+MBS-12-06-07,Kepemimpinan,PTA-11-00-09,Studi Islam dan Moderasi Beragama,67,0.319,0.024358,Melibatkan MK multi-prodi,-0.006,0.548,0.55,6,1.0,False,False,False
+HKI-12-01-09,Fiqh Munakahat,PTA-11-00-01,Pancasila dan Kewarganegaraan,62,0.316,0.032568,Melibatkan MK multi-prodi,0.055,0.543,0.51,6,0.833,False,False,False
+PTA-11-00-01,Pancasila dan Kewarganegaraan,PTA-11-00-09,Studi Islam dan Moderasi Beragama,186,0.316,0.00013,Melibatkan MK multi-prodi,0.178,0.454,0.55,10,1.0,False,False,False
+HKI-12-01-04,Pengantar Hukum Indonesia,PTA-11-00-09,Studi Islam dan Moderasi Beragama,62,0.313,0.034056,Melibatkan MK multi-prodi,0.055,0.535,0.54,10,0.9,False,False,False
+PAI-12-11-11,Strategi Pembelajaran PAI,PAI-13-11-33,Entrepreneurship,105,0.308,0.006354,Dalam prodi (kedua MK satu prodi),0.12,0.476,0.505,14,1.0,False,False,False
+PAI-12-11-22,Isu-isu Aktual Pendidikan Agama Islam,PAI-14-11-42,Media dan Teknologi Pembelajaran PAI,104,0.301,0.00798,Dalam prodi (kedua MK satu prodi),0.115,0.473,0.495,10,1.0,False,False,False

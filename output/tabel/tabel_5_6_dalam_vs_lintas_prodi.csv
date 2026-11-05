@@ -1,0 +1,4 @@
+﻿Kategori pasangan MK,Pasangan diuji,Edge (rho >= rho min),Persen edge dari teruji,Edge kuat (rho >= rho kuat),Persen edge kuat dari teruji,Rata-rata rho (edge),Rata-rata rho (edge kuat),Median rho (edge),Rata-rata rho (semua teruji),Rata-rata porsi mahasiswa prodi dominan,p Fisher (dalam vs multi-prodi),p Mann-Whitney rho (dalam vs multi-prodi)
+Dalam prodi (kedua MK satu prodi),277,92,33.21,37,13.36,0.486,0.598,0.472,0.224,1.0,0.7744,0.0106
+Melibatkan MK multi-prodi,69,21,30.43,6,8.7,0.422,0.55,0.401,0.141,0.951,0.7744,0.0106
+"Lintas prodi (kedua MK satu prodi, prodi berbeda)",0,0,,0,,,,,,,0.7744,0.0106

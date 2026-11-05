@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="prodi" attr.type="string"/>
+<key id="d1" for="node" attr.name="nama" attr.type="string"/>
+<key id="d0" for="node" attr.name="komunitas" attr.type="long"/>
+<graph edgedefault="undirected"><node id="AUD-12-07-13">
+  <data key="d0">10</data>
+  <data key="d1">Keselamatan dan Perlindungan Anak</data>
+  <data key="d2">86207</data>
+</node>
+<node id="AUD-12-07-15">
+  <data key="d0">10</data>
+  <data key="d1">Administrasi dan Manajemen</data>
+  <data key="d2">86207</data>
+</node>
+<node id="AUD-13-07-28">
+  <data key="d0">10</data>
+  <data key="d1">Design Content Digital</data>
+  <data key="d2">86207</data>
+</node>
+<node id="AUD-13-07-17">
+  <data key="d0">11</data>
+  <data key="d1">Neurosains</data>
+  <data key="d2">86207</data>
+</node>
+<node id="AUD-13-07-30">
+  <data key="d0">11</data>
+  <data key="d1">Event Organizer for Kids</data>
+  <data key="d2">86207</data>
+</node>
+<node id="AUD-13-07-31">
+  <data key="d0">11</data>
+  <data key="d1">Outbond for Kids</data>
+  <data key="d2">86207</data>
+</node>
+<node id="HKI-12-01-03">
+  <data key="d0">1</data>
+  <data key="d1">Ushul Fiqh</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-12-01-04">
+  <data key="d0">1</data>
+  <data key="d1">Pengantar Hukum Indonesia</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-12-01-07">
+  <data key="d0">1</data>
+  <data key="d1">Hadis Hukum Perkawinan</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-12-01-08">
+  <data key="d0">1</data>
+  <data key="d1">Fiqh Mawaris</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-12-01-09">
+  <data key="d0">1</data>
+  <data key="d1">Fiqh Munakahat</data>
+  <data key="d2">74230</data>
+</node>
+<node id="PTA-11-00-01">
+  <data key="d0">1</data>
+  <data key="d1">Pancasila dan Kewarganegaraan</data>
+  <data key="d2">61205</data>
+</node>
+<node id="PTA-11-00-05">
+  <data key="d0">1</data>
+  <data key="d1">Bahasa Indonesia</data>
+  <data key="d2">61205</data>
+</node>
+<node id="PTA-11-00-09">
+  <data key="d0">1</data>
+  <data key="d1">Studi Islam dan Moderasi Beragama</data>
+  <data key="d2">61205</data>
+</node>
+<node id="HKI-12-01-06">
+  <data key="d0">1</data>
+  <data key="d1">Ayat Hukum Perkawinan</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-13-01-14">
+  <data key="d0">12</data>
+  <data key="d1">Administrasi Peradilan</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-13-01-15">
+  <data key="d0">12</data>
+  <data key="d1">Advokasi</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-01">
+  <data key="d0">3</data>
+  <data key="d1">Hukum Bisnis</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-07">
+  <data key="d0">3</data>
+  <data key="d1">Hukum Administrasi Negara</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-09">
+  <data key="d0">3</data>
+  <data key="d1">Legal Drafting</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-02">
+  <data key="d0">3</data>
+  <data key="d1">Hukum Tata Negara</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-06">
+  <data key="d0">3</data>
+  <data key="d1">Fiqh Jinayah</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-03">
+  <data key="d0">13</data>
+  <data key="d1">Teori Ilmu Falak</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-12">
+  <data key="d0">13</data>
+  <data key="d1">Psikologi Keluarga</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-05">
+  <data key="d0">3</data>
+  <data key="d1">Hukum Adat Melayu</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-08">
+  <data key="d0">3</data>
+  <data key="d1">Hukum Zakat &amp; Wakaf</data>
+  <data key="d2">74230</data>
+</node>
+<node id="HKI-14-01-13">
+  <data key="d0">3</data>
+  <data key="d1">Filsafat Hukum Islam</data>
+  <data key="d2">74230</data>
+</node>
+<node id="IAT-12-03-13">
+  <data key="d0">8</data>
+  <data key="d1">Tafsir Hadis Ahkam</data>
+  <data key="d2">76231</data>
+</node>
+<node id="IAT-14-03-01">
+  <data key="d0">8</data>
+  <data key="d1">Dakwah Praktis</data>
+  <data key="d2">76231</data>
+</node>
+<node id="IAT-13-03-14">
+  <data key="d0">8</data>
+  <data key="d1">Islamic Academic Writing</data>
+  <data key="d2">76231</data>
+</node>
+<node id="IAT-14-03-02">
+  <data key="d0">8</data>
+  <data key="d1">Teknik Komunikasi</data>
+  <data key="d2">76231</data>
+</node>
+<node id="IAT-14-03-03">
+  <data key="d0">8</data>
+  <data key="d1">Konten Kreator Al-Qur'an</data>
+  <data key="d2">76231</data>
+</node>
+<node id="MBS-12-06-07">
+  <data key="d0">1</data>
+  <data key="d1">Kepemimpinan</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-12-06-09">
+  <data key="d0">1</data>
+  <data key="d1">Sistem Informasi Manajemen Dan Bisnis</data>
+  <data key="d2">61205</data>
+</node>
+<node id="PTA-11-00-08">
+  <data key="d0">6</data>
+  <data key="d1">Akidah dan Akhlak Tasawuf</data>
+  <data key="d2">86230</data>
+</node>
+<node id="MBS-12-06-08">
+  <data key="d0">6</data>
+  <data key="d1">Mikroekonomi Bisnis Islam</data>
+  <data key="d2">61205</data>
+</node>
+<node id="PTA-11-00-07">
+  <data key="d0">6</data>
+  <data key="d1">Tamaddun Melayu</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-13-06-44">
+  <data key="d0">2</data>
+  <data key="d1">Manajemen Kinerja</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-23">
+  <data key="d0">2</data>
+  <data key="d1">Etika Bisnis Syari'ah</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-13-06-45">
+  <data key="d0">2</data>
+  <data key="d1">Financial Technology (FINTECH)</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-19">
+  <data key="d0">2</data>
+  <data key="d1">Pengantar Hukum Bisnis</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-20">
+  <data key="d0">2</data>
+  <data key="d1">Manajemen Strategi</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-21">
+  <data key="d0">2</data>
+  <data key="d1">Akuntansi Manajemen Dan Biaya</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-22">
+  <data key="d0">2</data>
+  <data key="d1">Kewirausahaan</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-24">
+  <data key="d0">2</data>
+  <data key="d1">Bahasa Inggris Bisnis</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-25">
+  <data key="d0">2</data>
+  <data key="d1">Statistika Bisnis Dasar</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MBS-14-06-26">
+  <data key="d0">2</data>
+  <data key="d1">Komunikasi Bisnis</data>
+  <data key="d2">61205</data>
+</node>
+<node id="MPI-12-04-13">
+  <data key="d0">5</data>
+  <data key="d1">Manajemen keuangan Pendidikan</data>
+  <data key="d2">86231</data>
+</node>
+<node id="MPI-12-04-14">
+  <data key="d0">5</data>
+  <data key="d1">Manajemen Humas dan Public Relation</data>
+  <data key="d2">86231</data>
+</node>
+<node id="MPI-14-04-01">
+  <data key="d0">5</data>
+  <data key="d1">Perencanaan Pendidikan</data>
+  <data key="d2">86231</data>
+</node>
+<node id="MPI-14-04-04">
+  <data key="d0">5</data>
+  <data key="d1">Metodologi Penelitian</data>
+  <data key="d2">86231</data>
+</node>
+<node id="MPI-14-04-02">
+  <data key="d0">5</data>
+  <data key="d1">Manajemen Lembaga Pendidikan Islam</data>
+  <data key="d2">86231</data>
+</node>
+<node id="MPI-14-04-06">
+  <data key="d0">5</data>
+  <data key="d1">Kewirausahaan</data>
+  <data key="d2">86231</data>
+</node>
+<node id="MPI-14-04-05">
+  <data key="d0">5</data>
+  <data key="d1">Statistik Pendidikan</data>
+  <data key="d2">86231</data>
+</node>
+<node id="MPI2-12-12-09">
+  <data key="d0">9</data>
+  <data key="d1">Evaluasi Program Pendidikan</data>
+  <data key="d2">86137</data>
+</node>
+<node id="MPI2-12-12-10">
+  <data key="d0">9</data>
+  <data key="d1">Perencanaan Pengembangan Pendidikan Islam</data>
+  <data key="d2">86137</data>
+</node>
+<node id="MPI2-12-12-11">
+  <data key="d0">9</data>
+  <data key="d1">Pengembangan Sistem informasi Pendidikan</data>
+  <data key="d2">86137</data>
+</node>
+<node id="MPI2-12-12-12">
+  <data key="d0">9</data>
+  <data key="d1">Metodologi Penelitian Manajemen Pendidikan</data>
+  <data key="d2">86137</data>
+</node>
+<node id="PAI-12-11-01">
+  <data key="d0">14</data>
+  <data key="d1">Tafsir dan hadis Tarbawi</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-12-11-05">
+  <data key="d0">14</data>
+  <data key="d1">Ushul Fiqh</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-12-11-11">
+  <data key="d0">4</data>
+  <data key="d1">Strategi Pembelajaran PAI</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-12-11-22">
+  <data key="d0">4</data>
+  <data key="d1">Isu-isu Aktual Pendidikan Agama Islam</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-13-11-33">
+  <data key="d0">4</data>
+  <data key="d1">Entrepreneurship</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-14-11-39">
+  <data key="d0">4</data>
+  <data key="d1">Metodologi Penelitian Pendidikan</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-14-11-42">
+  <data key="d0">4</data>
+  <data key="d1">Media dan Teknologi Pembelajaran PAI</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-12-11-19">
+  <data key="d0">7</data>
+  <data key="d1">Etika Profesi Keguruan</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-13-11-34">
+  <data key="d0">7</data>
+  <data key="d1">Metode Pantun Pembelajaran PAI</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-13-11-35">
+  <data key="d0">7</data>
+  <data key="d1">Seminar Proposal</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-12-11-21">
+  <data key="d0">7</data>
+  <data key="d1">Inovasi Pembelajaran PAI</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-14-11-41">
+  <data key="d0">7</data>
+  <data key="d1">Pembangunan Karakter</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-14-11-37">
+  <data key="d0">4</data>
+  <data key="d1">Administarsi dan Supervisi Pendidikan</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-14-11-43">
+  <data key="d0">4</data>
+  <data key="d1">Psikologi Perkembangan</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-13-11-23">
+  <data key="d0">6</data>
+  <data key="d1">psikologi pendidikan</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-13-11-30">
+  <data key="d0">6</data>
+  <data key="d1">filsafat pendidikan islam</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-13-11-32">
+  <data key="d0">7</data>
+  <data key="d1">Pendidikan kewirausahaan teori dan praktek</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PAI-14-11-45">
+  <data key="d0">4</data>
+  <data key="d1">Statistik Pendidikan</data>
+  <data key="d2">86230</data>
+</node>
+<node id="PTA-11-00-02">
+  <data key="d0">1</data>
+  <data key="d1">Bahasa Arab</data>
+  <data key="d2">62202</data>
+</node>
+<node id="PTA-11-00-06">
+  <data key="d0">6</data>
+  <data key="d1">Fikih</data>
+  <data key="d2">88204</data>
+</node>
+<edge source="AUD-12-07-13" target="AUD-12-07-15">
+  <data key="d3">0.5087892612146154</data>
+</edge>
+<edge source="AUD-12-07-13" target="AUD-13-07-28">
+  <data key="d3">0.547609431146929</data>
+</edge>
+<edge source="AUD-12-07-15" target="AUD-13-07-28">
+  <data key="d3">0.6621272189162463</data>
+</edge>
+<edge source="AUD-13-07-17" target="AUD-13-07-30">
+  <data key="d3">0.4912310934169538</data>
+</edge>
+<edge source="AUD-13-07-30" target="AUD-13-07-31">
+  <data key="d3">0.4510290388591353</data>
+</edge>
+<edge source="HKI-12-01-03" target="HKI-12-01-04">
+  <data key="d3">0.38234795595248455</data>
+</edge>
+<edge source="HKI-12-01-03" target="HKI-12-01-07">
+  <data key="d3">0.3203417780579636</data>
+</edge>
+<edge source="HKI-12-01-04" target="HKI-12-01-07">
+  <data key="d3">0.3404811082657294</data>
+</edge>
+<edge source="HKI-12-01-04" target="HKI-12-01-08">
+  <data key="d3">0.4117582694095573</data>
+</edge>
+<edge source="HKI-12-01-04" target="HKI-12-01-09">
+  <data key="d3">0.38108468799626044</data>
+</edge>
+<edge source="HKI-12-01-04" target="PTA-11-00-01">
+  <data key="d3">0.5301783321725508</data>
+</edge>
+<edge source="HKI-12-01-04" target="PTA-11-00-05">
+  <data key="d3">0.34607948848958786</data>
+</edge>
+<edge source="HKI-12-01-04" target="PTA-11-00-09">
+  <data key="d3">0.31287699181863576</data>
+</edge>
+<edge source="HKI-12-01-07" target="HKI-12-01-08">
+  <data key="d3">0.5873657676139717</data>
+</edge>
+<edge source="HKI-12-01-07" target="HKI-12-01-09">
+  <data key="d3">0.3463944060331877</data>
+</edge>
+<edge source="HKI-12-01-07" target="PTA-11-00-05">
+  <data key="d3">0.5530322246776112</data>
+</edge>
+<edge source="HKI-12-01-08" target="PTA-11-00-05">
+  <data key="d3">0.6047136231699849</data>
+</edge>
+<edge source="HKI-12-01-09" target="PTA-11-00-01">
+  <data key="d3">0.31551527170688426</data>
+</edge>
+<edge source="HKI-12-01-09" target="PTA-11-00-05">
+  <data key="d3">0.3454906636538828</data>
+</edge>
+<edge source="PTA-11-00-01" target="HKI-12-01-06">
+  <data key="d3">0.5229605666251314</data>
+</edge>
+<edge source="PTA-11-00-01" target="MBS-12-06-09">
+  <data key="d3">0.5483423274974076</data>
+</edge>
+<edge source="PTA-11-00-01" target="PTA-11-00-09">
+  <data key="d3">0.31636518813781794</data>
+</edge>
+<edge source="PTA-11-00-05" target="MBS-12-06-09">
+  <data key="d3">0.34830446075203625</data>
+</edge>
+<edge source="PTA-11-00-05" target="PTA-11-00-02">
+  <data key="d3">0.45558790485135986</data>
+</edge>
+<edge source="PTA-11-00-09" target="HKI-12-01-06">
+  <data key="d3">0.35759964302286434</data>
+</edge>
+<edge source="PTA-11-00-09" target="MBS-12-06-07">
+  <data key="d3">0.31896430363861117</data>
+</edge>
+<edge source="PTA-11-00-09" target="MBS-12-06-08">
+  <data key="d3">0.3311281939205936</data>
+</edge>
+<edge source="PTA-11-00-09" target="MBS-12-06-09">
+  <data key="d3">0.4013770944758756</data>
+</edge>
+<edge source="HKI-13-01-14" target="HKI-13-01-15">
+  <data key="d3">0.5633190092296018</data>
+</edge>
+<edge source="HKI-14-01-01" target="HKI-14-01-07">
+  <data key="d3">0.6125253598237453</data>
+</edge>
+<edge source="HKI-14-01-01" target="HKI-14-01-09">
+  <data key="d3">0.48009320157366014</data>
+</edge>
+<edge source="HKI-14-01-07" target="HKI-14-01-02">
+  <data key="d3">0.4119469545888452</data>
+</edge>
+<edge source="HKI-14-01-07" target="HKI-14-01-06">
+  <data key="d3">0.5066256692617424</data>
+</edge>
+<edge source="HKI-14-01-07" target="HKI-14-01-09">
+  <data key="d3">0.5827190935907189</data>
+</edge>
+<edge source="HKI-14-01-09" target="HKI-14-01-05">
+  <data key="d3">0.47379073776222486</data>
+</edge>
+<edge source="HKI-14-01-09" target="HKI-14-01-06">
+  <data key="d3">0.38181078825910786</data>
+</edge>
+<edge source="HKI-14-01-09" target="HKI-14-01-13">
+  <data key="d3">0.394687402172934</data>
+</edge>
+<edge source="HKI-14-01-02" target="HKI-14-01-06">
+  <data key="d3">0.6183617352466927</data>
+</edge>
+<edge source="HKI-14-01-03" target="HKI-14-01-12">
+  <data key="d3">0.4350544579651564</data>
+</edge>
+<edge source="HKI-14-01-05" target="HKI-14-01-08">
+  <data key="d3">0.5523828938481747</data>
+</edge>
+<edge source="HKI-14-01-05" target="HKI-14-01-13">
+  <data key="d3">0.5452811852763986</data>
+</edge>
+<edge source="HKI-14-01-08" target="HKI-14-01-13">
+  <data key="d3">0.40301981564231076</data>
+</edge>
+<edge source="IAT-12-03-13" target="IAT-14-03-01">
+  <data key="d3">0.5135395653460786</data>
+</edge>
+<edge source="IAT-14-03-01" target="IAT-13-03-14">
+  <data key="d3">0.48131684540994635</data>
+</edge>
+<edge source="IAT-14-03-01" target="IAT-14-03-02">
+  <data key="d3">0.44853123329820865</data>
+</edge>
+<edge source="IAT-14-03-01" target="IAT-14-03-03">
+  <data key="d3">0.5384585675454143</data>
+</edge>
+<edge source="IAT-14-03-02" target="IAT-14-03-03">
+  <data key="d3">0.7594597630701382</data>
+</edge>
+<edge source="MBS-12-06-07" target="MBS-12-06-09">
+  <data key="d3">0.3457570482198361</data>
+</edge>
+<edge source="MBS-12-06-07" target="PTA-11-00-08">
+  <data key="d3">0.373402813461074</data>
+</edge>
+<edge source="PTA-11-00-08" target="MBS-12-06-08">
+  <data key="d3">0.4376448588456761</data>
+</edge>
+<edge source="PTA-11-00-08" target="PAI-13-11-23">
+  <data key="d3">0.4817130076871241</data>
+</edge>
+<edge source="PTA-11-00-08" target="PTA-11-00-06">
+  <data key="d3">0.42755178962742296</data>
+</edge>
+<edge source="PTA-11-00-08" target="PTA-11-00-07">
+  <data key="d3">0.5414972778175852</data>
+</edge>
+<edge source="MBS-12-06-08" target="PTA-11-00-07">
+  <data key="d3">0.3888257579778279</data>
+</edge>
+<edge source="MBS-13-06-44" target="MBS-14-06-23">
+  <data key="d3">0.4687499999999999</data>
+</edge>
+<edge source="MBS-14-06-23" target="MBS-13-06-45">
+  <data key="d3">0.7573571102876746</data>
+</edge>
+<edge source="MBS-14-06-23" target="MBS-14-06-26">
+  <data key="d3">0.4802300680136827</data>
+</edge>
+<edge source="MBS-13-06-45" target="MBS-14-06-19">
+  <data key="d3">0.46143568558669307</data>
+</edge>
+<edge source="MBS-13-06-45" target="MBS-14-06-20">
+  <data key="d3">0.6990781944279877</data>
+</edge>
+<edge source="MBS-13-06-45" target="MBS-14-06-21">
+  <data key="d3">0.41133080039226566</data>
+</edge>
+<edge source="MBS-13-06-45" target="MBS-14-06-22">
+  <data key="d3">0.5632500736226891</data>
+</edge>
+<edge source="MBS-13-06-45" target="MBS-14-06-24">
+  <data key="d3">0.6084402085806265</data>
+</edge>
+<edge source="MBS-13-06-45" target="MBS-14-06-25">
+  <data key="d3">0.5806673907337139</data>
+</edge>
+<edge source="MBS-14-06-19" target="MBS-14-06-20">
+  <data key="d3">0.49464647643267007</data>
+</edge>
+<edge source="MBS-14-06-19" target="MBS-14-06-24">
+  <data key="d3">0.43916032623692364</data>
+</edge>
+<edge source="MBS-14-06-20" target="MBS-14-06-22">
+  <data key="d3">0.4657725043518276</data>
+</edge>
+<edge source="MBS-14-06-20" target="MBS-14-06-25">
+  <data key="d3">0.36318006189097457</data>
+</edge>
+<edge source="MBS-14-06-24" target="MBS-14-06-25">
+  <data key="d3">0.3624354888769851</data>
+</edge>
+<edge source="MPI-12-04-13" target="MPI-12-04-14">
+  <data key="d3">0.5763090765121011</data>
+</edge>
+<edge source="MPI-12-04-13" target="MPI-14-04-01">
+  <data key="d3">0.808983204183505</data>
+</edge>
+<edge source="MPI-12-04-13" target="MPI-14-04-04">
+  <data key="d3">0.6418173007571746</data>
+</edge>
+<edge source="MPI-12-04-14" target="MPI-14-04-01">
+  <data key="d3">0.6784691626376661</data>
+</edge>
+<edge source="MPI-12-04-14" target="MPI-14-04-02">
+  <data key="d3">0.5910108403559161</data>
+</edge>
+<edge source="MPI-12-04-14" target="MPI-14-04-06">
+  <data key="d3">0.4623181199335454</data>
+</edge>
+<edge source="MPI-14-04-01" target="MPI-14-04-04">
+  <data key="d3">0.5475329127883066</data>
+</edge>
+<edge source="MPI-14-04-04" target="MPI-14-04-05">
+  <data key="d3">0.44321170512951613</data>
+</edge>
+<edge source="MPI-14-04-04" target="MPI-14-04-06">
+  <data key="d3">0.49161493907615916</data>
+</edge>
+<edge source="MPI-14-04-06" target="MPI-14-04-05">
+  <data key="d3">0.4675216924692573</data>
+</edge>
+<edge source="MPI2-12-12-09" target="MPI2-12-12-10">
+  <data key="d3">0.5720921774913429</data>
+</edge>
+<edge source="MPI2-12-12-09" target="MPI2-12-12-11">
+  <data key="d3">0.4724926268410163</data>
+</edge>
+<edge source="MPI2-12-12-09" target="MPI2-12-12-12">
+  <data key="d3">0.5535968049066002</data>
+</edge>
+<edge source="MPI2-12-12-10" target="MPI2-12-12-11">
+  <data key="d3">0.5026330123655607</data>
+</edge>
+<edge source="MPI2-12-12-10" target="MPI2-12-12-12">
+  <data key="d3">0.645564115702435</data>
+</edge>
+<edge source="PAI-12-11-01" target="PAI-12-11-05">
+  <data key="d3">0.3873984372939214</data>
+</edge>
+<edge source="PAI-12-11-11" target="PAI-12-11-22">
+  <data key="d3">0.5431786406239038</data>
+</edge>
+<edge source="PAI-12-11-11" target="PAI-13-11-33">
+  <data key="d3">0.30813829593896613</data>
+</edge>
+<edge source="PAI-12-11-11" target="PAI-14-11-39">
+  <data key="d3">0.35431226403351324</data>
+</edge>
+<edge source="PAI-12-11-11" target="PAI-14-11-42">
+  <data key="d3">0.43192147824990207</data>
+</edge>
+<edge source="PAI-12-11-22" target="PAI-13-11-33">
+  <data key="d3">0.3297793933122666</data>
+</edge>
+<edge source="PAI-12-11-22" target="PAI-14-11-37">
+  <data key="d3">0.509712232583226</data>
+</edge>
+<edge source="PAI-12-11-22" target="PAI-14-11-39">
+  <data key="d3">0.4643401424227999</data>
+</edge>
+<edge source="PAI-12-11-22" target="PAI-14-11-42">
+  <data key="d3">0.3008481173079516</data>
+</edge>
+<edge source="PAI-12-11-22" target="PAI-14-11-43">
+  <data key="d3">0.40998975335171267</data>
+</edge>
+<edge source="PAI-13-11-33" target="PAI-14-11-37">
+  <data key="d3">0.5318343839722415</data>
+</edge>
+<edge source="PAI-13-11-33" target="PAI-14-11-39">
+  <data key="d3">0.4653917875204332</data>
+</edge>
+<edge source="PAI-13-11-33" target="PAI-14-11-43">
+  <data key="d3">0.40543355382320084</data>
+</edge>
+<edge source="PAI-14-11-39" target="PAI-14-11-37">
+  <data key="d3">0.5590062939765458</data>
+</edge>
+<edge source="PAI-14-11-39" target="PAI-14-11-42">
+  <data key="d3">0.42529620134560003</data>
+</edge>
+<edge source="PAI-14-11-39" target="PAI-14-11-43">
+  <data key="d3">0.6523553900498545</data>
+</edge>
+<edge source="PAI-14-11-39" target="PAI-14-11-45">
+  <data key="d3">0.4996166894122813</data>
+</edge>
+<edge source="PAI-14-11-42" target="PAI-14-11-37">
+  <data key="d3">0.32322373836662033</data>
+</edge>
+<edge source="PAI-14-11-42" target="PAI-14-11-43">
+  <data key="d3">0.33969226012539794</data>
+</edge>
+<edge source="PAI-14-11-42" target="PAI-14-11-45">
+  <data key="d3">0.34107408282408924</data>
+</edge>
+<edge source="PAI-12-11-19" target="PAI-13-11-34">
+  <data key="d3">0.47248531056166476</data>
+</edge>
+<edge source="PAI-12-11-19" target="PAI-13-11-35">
+  <data key="d3">0.35851271754121417</data>
+</edge>
+<edge source="PAI-13-11-34" target="PAI-12-11-21">
+  <data key="d3">0.38377572190588455</data>
+</edge>
+<edge source="PAI-13-11-34" target="PAI-13-11-32">
+  <data key="d3">0.40039316690361965</data>
+</edge>
+<edge source="PAI-13-11-34" target="PAI-14-11-41">
+  <data key="d3">0.42412374057449653</data>
+</edge>
+<edge source="PAI-12-11-21" target="PAI-14-11-41">
+  <data key="d3">0.6692270862353743</data>
+</edge>
+<edge source="PAI-14-11-37" target="PAI-14-11-43">
+  <data key="d3">0.5325639778998787</data>
+</edge>
+<edge source="PAI-14-11-37" target="PAI-14-11-45">
+  <data key="d3">0.32916975587331154</data>
+</edge>
+<edge source="PAI-14-11-43" target="PAI-14-11-45">
+  <data key="d3">0.41635149904422336</data>
+</edge>
+<edge source="PAI-13-11-23" target="PAI-13-11-30">
+  <data key="d3">0.6847536946515299</data>
+</edge>
+</graph></graphml>
